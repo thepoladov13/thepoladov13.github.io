@@ -1,5 +1,5 @@
 
-<body style="background-color: #323232;">
+<body>
 <center>
 <h1>Under Construction</h1>
 </center>
